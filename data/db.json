@@ -1,0 +1,754 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "Eleron Шпатлевка Фасадная ОК С-003, 20кг",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/eleroon.png",
+      "category": "Шпатлевочная смесь предназначена для фасадных работ и выравнивания поверхностей снаружи и внутри зданий и сооружений. Используется в сухих и влажных помещениях различного назначения. Применяется по бетонным, цементным, оштукатуренным основаниям и по кирпичной кладке.",
+      "price": 60000,
+      "discount": 1500,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 2,
+      "brand": "Наливной пол JOVIthumbnail",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/Jovi Nalivnoy.jpg",
+      "category": "Наливной пол — хорошая альтернатива стяжке. По своей сути наливной пол – это разновидность стяжки, сооружение которой обеспечивает создание качественной абсолютно ровной и гладкой поверхности, используемой как основание пола. Для создания данной конструкции используют составы, изготовленные на основе полимерных материалов, гипса или цемента. Использование этой смеси позволяет выровнять любую поверхность, создав покрытие без швов и стыков.",
+      "price": 42000,
+      "discount": 1200,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 3,
+      "brand": "Клей Knauf Rotband",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/rodbin.png",
+      "category": "Сухая смесь КНАУФ РОТБАНД предназначена для высококачественного оштукатуривания потолков и стен стен из бетона, кирпича, цементной штукатурки, поверхностей из пенополистирола. Рекомендуется для гладких бетонных потолочных и стеновых поверхностей. Штукатурка подходит для отделки помещений с нормальной влажностью, а также в кухнях и ванных комнатах с покрытием, обеспечивающим защиту от сырости. Предназначена для внутренних работ.",
+      "price": 45000,
+      "discount": 800,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 4,
+      "brand": "Кафельный клей | 25кг. | Jovi Усиленный ",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-586.png",
+      "category": "Jovi | Усиленный клей – специальный состав, способный выдерживать высокие температурные и механические нагрузки. С его помощью можно облицевать не только минеральные покрытия, но даже металл или стекло.",
+      "price": 32000,
+      "discount": 300,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 5,
+      "brand": "Ротбанд КНАУФ (25кг)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-31.png",
+      "category": "КНАУФ-Ротбанд – сухая смесь на основе гипсового вяжущего с поли- мерными добавками. Предназначена для высококачественного ошту- катуривания вручную стен и потолков внутри помещений с нормаль- ной влажностью, а также в кухнях и ванных комнатах (с покрытием, обеспечивающим защиту от увлажнения).",
+      "price": 45600,
+      "discount": 2200,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 6,
+      "brand": "Смесь «FASAD» 20кг",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/fixerrr.png",
+      "category": "Существуют следующие виды гидроизолирующих смесей на цементной основе: Цементно-песчаная гидроизоляция используется для защиты монолитных оснований. Промышленность выпускает смеси для ручного и машинного нанесения. В их состав нередко включают уплотняющие добавки. При слишком быстром испарении влаги из раствора нанесенный слой изоляции может деформироваться. Гидроизоляция цементная с добавлением латекса. Этот компонент позволяет получить раствор, по свойствам напоминающий жидкую резину. Наносится в горячем виде путем торкретирования.",
+      "price": 34000,
+      "discount": 1400,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 7,
+      "brand": "Megamix Gazabeton",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/megamixxx.png",
+      "category": "Сухая строительная шпаклевочная смесь, изготавливаемая на гипсовом вяжущем с различными добавками по ГОСТу 31387-2008. Разработана специально для заполнения стыков гипсокартонных листов. Высоко прочная, не трескается и не дает усадки. Обладает высокими клеящимися свойствами. Применяется в качестве штукатурочной смеси для выравнивания кирпичных, каменных, гипсовых и других поверхностей при проведении внутренних работ толщиной слоя до 50 мм. Для склеивания и шпаклеивания гипсовых элементов, а также, для заделки трещин и других повреждений на гипсокартонных листах.",
+      "price": 35000,
+      "discount": 5000,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 8,
+      "brand": "Клей для майолики | Cerra",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-9,.png",
+      "category": "Усиленный клей для Майолики (Мозайки) керамической, клинкерной и керамогранитной плитки, плитки из искусственного камня. Сухая клеевая смесь на основе портландцемента, фракционированного кварцевого песка, модифицированная комплексом специальных добавок.",
+      "price": 170000,
+      "discount": 1200,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 9,
+      "brand": "GIPSLI SHPAKLEVKA VENTUM 604",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-14,.png",
+      "category": "GIPSLI SHPAKLEVKA VENTUM 604...",
+      "price": 32500,
+      "discount": 1100,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 10,
+      "brand": "ROTTO FASAD VENTUM 710",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-12 (2).png",
+      "category": "GIPSLI SHPATLEVKA - Шпатлевка гипсовая. ОБЛАСТЬ ПРИМЕНЕНИЯ: Смесь предназначена для выравнивания вертикальных и горизонтальных бетонных, пенобетонных, цементных, цементноизвестковых, гипсовых и гипсокартонных поверхностей под окраску и оклейку обоями. Может применяться для заделки швов между гипсокартонными и гипс волокнистыми листами с использованием армирующей ленты (серпянки) и в качестве ремонтного состава для быстрого устранения небольших сколов, трещин глубиной до 15 мм. ",
+      "price": 31500,
+      "discount": 900,
+
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 11,
+      "brand": "Браус Шпаклевка Родбанд 25кг",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-13 (2).png",
+      "category": "Сухая шпаклевочная смесь на основе гипса и полимерных добавок. Применяется для профессионального ремонта. Быстро высыхает на обработанной поверхности, не дает усадки и трещин. После высыхания образует гладкую светлую поверхность готовую под финишное покрытие краской или обоями.",
+      "price": 27500,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 12,
+      "brand": "(GFG) Родбан 25кг",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-33.png",
+      "category": "Ротбанд – универсальная сухая штукатурная смесь гипсового вяжущего с легким за-полнотелым и полимерными добавками, обеспечивающими повышенную адгезию. Предназначена для высококачественного оштукатуривания вручную потолков и стен с обычным твердым основанием (бетон, кирпич...",
+      "price": 29000,
+      "categoryId": 1,
+      "count": 0
+    },
+    {
+      "id": 13,
+      "brand": "Harvia The Wall 9kW Sauna Heater",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/9651.png",
+      "category": "Мощность кВт 9,0 Вес (кг 10,7 Глубина см 26 Ширина см 38 Высота (см 70 Сауна мин. м3 8 Сауна макс. м3 14 Сауна мин. Высота 190 Вместимость камней макс. кг 20 Напряжение питания 3 фазы 400 В 3Н Соединительный кабель мм2 5 х 2,5 Предохранитель А 3 х 16 Напряжение питания 1-фазное 230 В 1Н Соединительный кабель мм2 10 Предохранитель А 50",
+      "price": 4685000,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 14,
+      "brand": "Ведро из липы",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-180.png",
+      "category": "Ведро из липы",
+      "price": 300000,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 15,
+      "brand": "Камень Кварцит Банные штучки малиновый колотый 20кг",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/000.png",
+      "category": "Камень Кварцит малиновый колотый «Банные штучки» широко применяется в банях и саунах. Его главное свойство – высокая теплоотдача и стерильность – камень отталкивает все бактерии и инфекции. Также используется для облицовки бань и печей. Камень очень прочный и выдерживает большое количество физических воздействий. Устойчив к воздействию ультрафиолетового излучения и влаги, а также перепадам температур.        ",
+      "price": 400000,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 16,
+      "brand": "Мегамаркет43 - Лак бесцветный, для защиты и декоративной",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-140.png",
+      "category": "Лак бесцветный, для защиты и декоративной",
+      "price": 160000,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 17,
+      "brand": "Камни для бани ФЕНИКС",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-13 (61).png",
+      "category": "Камень Кварцит малиновый колотый «Банные штучки» широко применяется в банях и саунах.",
+      "price": 335000,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 18,
+      "brand": "Декорация в баню и сауну дерево",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/,0.png",
+      "category": "Декорация в баню и сауну дерево",
+      "price": 600000,
+      "discount": 1500,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 19,
+      "brand": "Искусство песочных часов для сауны",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-150.png",
+      "category": "Искусство песочных часов для сауны",
+      "price": 269000,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 20,
+      "brand": "Гималайская соль 1m2",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-5,,,,.png",
+      "category": "Гималайская соль 1m2",
+      "price": 12300,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 21,
+      "brand": "эфирных масел Банные Штучки 20ml",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/600001404530b1.webp",
+      "category": "Сауна, паровая баня, джакузи – идеальные места для использования масел. В сочетании с подогретым воздухом паровой бани масла усиливают свое действие, облегчают дыхание и благотворно воздействуют на кожу. Эфирное масло «банные штучки» поднимет настроение, создаст атмосферу спокойствия и гармонии. При посещении ванной раз в неделю одного флакона хватает на полгода использования. Эфирное масло с приятным ароматом и бодрящим эффектом. Обладает сильным запахом экстракта хвои. 100% натуральное эфирное масло пихты.",
+      "price": 60000,
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 22,
+      "brand": "Шапка В бане веник ",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-1 (6).png",
+      "category": "Перед посещением сауны или парной необходимо позаботится о комфорте, безопасности и гигиене. Поэтому шапка для сауны является незаменимым атрибутом в бане. Шапка для сауны изготовлена из овечьей шерсти, которая обладает термозащитным, влаговпитывающим, и антибактериальным эффектом. Шапка для сауны обеспечивает защиту головы от высокой температуры и позволяет без ущерба для здоровья достаточно долго находится в парилке. Шапка для сауны украшена оригинальным вышитым рисунком, который вместе с забавным текстом обеспечивает хорошее настроение и подчеркивает индивидуальность!",
+      "price": 60000,
+      "discount": 13000,
+
+      "categoryId": 2,
+      "count": 0
+    },
+    {
+      "id": 23,
+      "brand": "Гипсокартон VERO стеновой простой (12.5мм)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/nodir (9).png",
+      "category": "Гипсокартон VERO Стеновой простой 2500 х 1200 х 12мм ",
+      "price": 40000,
+      "categoryId": 3,
+      "count": 0
+    },
+    {
+      "id": 24,
+      "brand": "Гипсокартон КНАУФ потолочный простой (9.5мм)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/nodir (3).png",
+      "category": "Гипсокартон Кнауф 2500х1200х9,5 мм, ГКЛ потолочный (3,0м2) представляет собой прямоугольный элемент, который состоит из двух слоев специального картона с прослойкой из гипсового теста с армирующими добавками, при этом боковые кромки полосы зафальцовываются краями картона (лицевого слоя). Для формирования сердечника применяется гипсовое вяжущее марки Г4 по ГОСТ 125-79.",
+      "price": 52200,
+      "categoryId": 3,
+      "count": 0
+    },
+    {
+      "id": 25,
+      "brand": "Гипсокартон BRAUS  стеновой влагастойкий  1,2x2,5",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/nodir (1).png",
+      "category": "Листовой отделочный материал применяется для облицовки стен и потолка, перегородок помещений, подвесных потолков, декоративной и звукоизоляции и других конструкций (колонн, ригелей и др.). Гипсокартон применяют в зданиях и помещениях с сухой и нормальной влажностью, при отсутствии дополнительной защиты от влаги. Трудногорючие материалы относятся к группе огнестойких",
+      "price": 55000,
+      "discount": 1500,
+      "categoryId": 3,
+      "count": 0
+    },
+    {
+      "id": 26,
+      "brand": "Гипсокартон OPTIMUS потолочный простой (9.5мм)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-11.png",
+      "category": "Этот продукт площадью 3 м² доступен в раoзмерах 2500 × 1200 × 9,5 мм. Особенности: Гипсокартонные листы Optimus завоевали любовь своих покупателей своей 100% экологичностью и производством без каких-либо химических добавок. Этот продукт является наиболее удобным и доступным средством герметизации внутренних помещений зданий и сооружений, снижения шума (шумоизоляции), предотвращения проникновения и выхода тепла и холода из здания или помещения. В свою очередь, гладкость поверхности гипсокартона облегчает работу строителей перед внутренней отделкой помещения, и служит для качественного и гладкого вида таких работ, как шпаклевка, обоев.",
+      "price": 34000,
+      "categoryId": 3,
+      "count": 0
+    },
+    {
+      "id": 27,
+      "brand": "Гипсокартон VERO стеновой влагостойкий (12.5мм)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-8.png",
+      "category": "На нашем сайте вы можете купить товар - Гипсокартон 12,5мм (влагостойкий стеновой ) VERO, с доставкой на дом по самой выгодной цене",
+      "price": 55000,
+      "categoryId": 3,
+      "count": 0
+    },
+    {
+      "id": 28,
+      "brand": "Гипсокартон AZIA паталочный простой (9.5мм)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/nodir (5).png",
+      "category": "Размер листа - 1200х2500х9,5 мм. Вес листа - 22 кг. Применяется для устройства разных видов потолочных конструкций внутри помещений с нормальной влажностью воздуха. Для монтажа используется направляющий профиль",
+      "price": 49000,
+      "discount": 1500,
+
+      "categoryId": 3,
+      "count": 0
+    },
+    {
+      "id": 29,
+      "brand": "Гипсокартон ФОРУС стеновой простой (12.5мм)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/nodir (2).png",
+      "category": "Гипсокартон цена в Ташкенте от компании Teplodom Компания Teplodom является лидером на местном рынке, предоставляя вам качественные услуги гипсокартона в Ташкенте. Наши высоквалифицированные работники и инновационно- качественные материалы, помогут вам сделать правильный выбор и купить гипсокартон высочайшего качества. Гипсокартон, цена, которого на местном рынке является дорогостоящей, вы сможете приобрести по демократичным ценам только с нашей компанией!",
+      "price": 56000,
+      "categoryId": 3,
+      "count": 0
+    },
+    {
+      "id": 30,
+      "brand": "Фундаментные блоки сплошные",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/betonnye-bloki-dlja-fundamenta.jpg",
+      "category": "Фундаментные блоки сплошные дома",
+      "price": 350000,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 31,
+      "brand": "Газобетон Автоклавные 1м3",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/photo_2020-05-18_19-18-47_1634540261.jpg",
+      "category": "<b>Газобетон</b> – строительный материал с уникальными свойствами. Представляет собой искусственный камень с пористой структурой. В состав газобетона входят цемент, песок, известь, гипс и алюминиевая пудра (газообразователь).РАЗМЕРЫ(600*200*300) (600*200*250) 600*150*300. (600*180*300) (600*120*300) (600*300*300) (600*250*300) эти размеры в наличии",
+      "price": 69000,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 32,
+      "brand": "Профиль для гипсокартона (У) (100*40)(060)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/prrrofil.png",
+      "category": "Профиль для гипсокартона (У) (100*40)(060)",
+      "price": 15000,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 33,
+      "brand": "Профиль для гипсокартона (У) (100*40)(040)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/PROFIL.png",
+      "category": "Профиль для гипсокартона (У) (100*40)(040)",
+      "price": 9000,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 34,
+      "brand": "Аграф Директорат (09)микрон",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-43.png",
+      "category": "Аграф Директорат (09)микрон        ",
+      "price": 1300,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 35,
+      "brand": "Профиль монтажный Akustiline TL50 (2,7м х 50мм)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/vПодвес прямой АкустикГипс (AcousticGyps) для ПП 6027 (0,9мм).png",
+      "category": "Akustiline профиль для монтажа декоративных акустических панелей Akustiline Ampir. Изготовлен из пожаробезопасного материала, окрашенного в один из 33 штатных цветов. Покраска включена в стоимость",
+      "price": 339000,
+      "discount": 9000,
+
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 36,
+      "brand": "Профиль для гипсокартона (У) (28*27)(060)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/U PROFIL.png",
+      "category": "Профиль направляющий потолочный ПН 28х27 служит в качестве направляющей при монтаже каркаса подвесного потолка, а также облицовки стен. При монтаже каркаса подвесного потолка ПН-профиль крепится по периметру помещения. В случае установки каркаса облицовки профиль крепится к полу и потолку.",
+      "price": 5800,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 37,
+      "brand": "Сайдинитель Краб для Профиля для установки листовых материалов",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-40.png",
+      "category": "Сайдинитель Краб для Профиля для листовых материалов",
+      "price": 7500,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 38,
+      "brand": "Аграф Директорат (08)микрон",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-39.png",
+      "category": "Аграф Директорат (08)микрон",
+      "price": 1800,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 39,
+      "brand": "Профиль для гипсокартона (У) (100*40)(045)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/PROFIL.png",
+      "category": "Профиль для гипсокартона (У) (100*40)(045)",
+      "price": 9900,
+      "categoryId": 4,
+      "count": 0
+    },
+    {
+      "id": 40,
+      "brand": "Грунтовка HAYAT",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/gruntovka hayat.png",
+      "category": "Грунтовка – это жидкий строительный материал, использующийся для подготовки поверхности и улучшения соединения последующих слоев с основанием.",
+      "price": 115000,
+      "count": 0
+    },
+    {
+      "id": 41,
+      "brand": "BASIS 1/5(1)VENTUM",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/basis.png",
+      "category": "<b>BASİS - (1/5 лт)® - грунтовка акриловая. Описание:</b> Грунтовка акриловая - для наружного и внутреннего применения на основе воды и акрила, сополимер. Свойства ... Не рассыпается после нанесения. BASİS - (1/7)®, придает стенам влагоотталкивающее свойство, а также увеличивает срок службы краски нанесенной на поверхность. Экологически чистый продукт. Область нанесения",
+      "price": 59000,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 42,
+      "brand": "Антикоррозийная грунтовая краска «Antipas» ",
+      "thumbnail": " https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/dunyabunya.png ",
+      "category": "Антикоррозийная грунтовая краска «Antipas» - Высококачественная грунтовая краска на алкидной основе, защищающая металлические покрытия от коррозийных воздействий. Прекрасно ложится на окрашиваемую поверхность. Устойчива к разрушающему воздействию влаги и морской воды. Легко наносится.",
+      "price": 405000,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 43,
+      "brand": "Грунт ЭЛЕРОН 1litr",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/eleron 1l.png  ",
+      "category": "Шпатлевочная смесь предназначена для фасадных работ и выравнивания поверхностей снаружи и внутри зданий и сооружений. Используется в сухих и влажных помещениях различного назначения. Система Менеджмента Качества соответствует требованиям стандарта ISO 9001:2001 Применяется по бетонным, цементным, оштукатуренным основаниям и по кирпичной кладке.",
+      "price": 38000,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 44,
+      "brand": "Разбавитель",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/razbavitl.png",
+      "category": "Растворитель — органическая летучая жидкость (углеводород, кетон, спирт, эфир и др.) или смесь подобных жидкостей, применяемая для растворения пленкообразующих веществ и придания необходимой консистенции лакокрасочному материалу. Разбавитель — органическая летучая жидкость, применяемая для разбавления лакокрасочных материалов с целью снижения их вязкости и перевода в состояние пригодное к нанесению на окрашиваемую поверхность.",
+      "price": 13000,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 45,
+      "brand": "Грунтовка ГФ_-021 Антипас 2кг",
+      "thumbnail": " https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/anty pas.png ",
+      "category": "Грунт ГФ-021 – универсальный состав, продается в виде жидкости с твердыми компонентами. Состав контролируется государственным составом, в грунтовке есть: лак на алкидах, сиккатив, минералы, добавки для стабилизации, колера, ингибиторы для ржавчины, другие компоненты.",
+      "price": 27000,
+      "discount": 500,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 46,
+      "brand": "Грунтовка ГФ-021 25кг Ведро",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/kok.png",
+      "category": "Грунт ГФ-021 состоит из смеси пигментов, сиккатива, наполнителей, стабилизирующих веществ растворенных в алкидном лаке. Применяется данное покрытие при грунтовании металла и дерева, наряду с грунтовкой ГФ-0119.        ",
+      "price": 485000,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 47,
+      "brand": "Грунтовка ГФ-021 2кг банка",
+      "thumbnail": " https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/photo_2021-08-23_13-13-37_1632140915.jpg ",
+      "category": "Грунт ГФ-021 – универсальный состав, продается в виде жидкости с твердыми компонентами. Состав контролируется государственным составом, в грунтовке есть: лак на алкидах, сиккатив, минералы, добавки для стабилизации, колера, ингибиторы для ржавчины, другие компоненты.",
+      "price": 49000,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 48,
+      "brand": "FIXER гурунтофка (1L)",
+      "thumbnail": " https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/photo_2022-05-14_13-13-50 (2).jpg ",
+      "category": "(FIXER )Грунтовка готовит поверхность к нанесению финишного покрытия. Конечно, она позволяет сэкономить на краске и обойном клее, но это не главное. Грунтовка убережет вас от разочарований при виде отслаивающихся обоев, облупившейся краски, отстающей плитки и прочих неприятностей, случающихся при отделке.",
+      "price": 25000,
+      "discount": 1800,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 49,
+      "brand": "FIXER гурунтофка (3L)",
+      "thumbnail": " https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/photo_2022-05-14_13-13-57 (2).jpg ",
+      "category": "(FIXER )Грунтовка готовит поверхность к нанесению финишного покрытия. Конечно, она позволяет сэкономить на краске и обойном клее, но это не главное. Грунтовка убережет вас от разочарований при виде отслаивающихся обоев, облупившейся краски, отстающей плитки и прочих неприятностей, случающихся при отделке.",
+      "price": 55000,
+      "categoryId": 5,
+      "count": 0
+    },
+    {
+      "id": 50,
+      "brand": "Basalt Wool Базальтовая каменная вата плотность (140)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/bzalt.png",
+      "category": "Basalt Wool - натуральный утеплитель на основе горных пород базальтовой группы, не содержит стекловаты. Предназначен для теплоизоляции кровли, перекрытий, стен, перегородок и полов. Утеплитель отлично сохраняет тепло зимой и прохладу летом, обладает звукоизоляционными свойствами, высокой устойчивостью к влаге, не горит и не распространяет горение. Не подвержен воздействию плесени и грызунов. Basalt Wool отличается простотой и удобство монтажа, экологичен и безопасен для здоровья. Бренд Basalt Страна производитель Узбекистан Размеры Длина 1200 мм. Ширина 600 мм.",
+      "price": 89000,
+      "discount": 1300,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 51,
+      "brand": "Саморезы Черные Для дерево",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-47.png",
+      "category": "Крепёжное изделие в виде стержня с головкой и специальной наружной резьбой, образующей внутреннюю резьбу в отверстии соединяемого предмета. Имеет треугольную резьбу на цилиндрической поверхности, полностью или не полностью закрывающую цилиндрическую поверхность.",
+      "price": 28000,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 52,
+      "brand": "Дюбель гвоздь цена за 1кг",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/OLX POST-59,.png",
+      "category": "Дюбель - гвоздь представляет собой составную конструкцию, состоящую из двух элементов — дюбеля, предназначенного для установки непосредственно в просверленное отверстие, и гвоздя, вставляемого в дюбель, на который проводится крепеж.",
+      "price": 38000,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 53,
+      "brand": "EPA Диск алмазный отрезной для сухого реза EPA (3ADS-250-32) 250mm",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/0 (2).png",
+      "category": "Алмазные диски – это рабочий инструмент для резки, заточки или шлифовки твердых поверхностей, где режущая часть представляет собой напыление из алмазной крошки удерживаемая специальным связующим веществом. Применение алмазов позволяет значительно увеличить ресурс работы инструмента, повысить его производительность, точность и чистоту обработки, сохранить неизменным диаметр круга в процессе его эксплуатации. Алмазные диски широко применяются для выполнения операций резки, заточки или шлифовки твердых неметаллических и металлических поверхностей. В качестве оснастки они используются для: плиткорезов; угловых шлифовальных машин; бензорезов; штроборезов; камнерезных станков; отрезных машин и другого оборудования.",
+      "price": 105000,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 54,
+      "brand": "EPA Отрезной диск по металлу (2KA-1256022) 125x6.0x22mm",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/JmWczPjldaBYBdjnAJCVjkTcednwKaCldy5OAXXjz8ISh8tLU4TeVnQQdD9a.png",
+      "category": "Описание Отрезной диск по металлу",
+      "price": 9000,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 55,
+      "brand": "EPA Ножницы по металлу (EN-91)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/NOZYCE-DO-BLACHY-12-PROSTE-MAR-POL-M48520.jfif",
+      "category": "Ручные ножницы по металлу – это инструмент, который используется для резки металла и стальных листов толщиной до 1,5 мм, алюминиевого профиля, подравнивания кромок, выполнения фигурного раскроя. Они имеют острые лезвия из быстрорежущей стали, которые позволяют легко и ровно осуществлять разрез. Если вам время от времени приходится сталкиваться с металлическим профилем или со стальными листами небольшой толщины, а использовать электроинструмент не выгодно, то можно купить недорогое решение - ручные ножницы по металлу.",
+      "price": 42000,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 56,
+      "brand": "EPA плоскогубцы (EPG-80-1 200mm)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/2021-12-28-13-12-50-120110-f7f17a2a0f1d03ff0146fda1a9ca830d.webp",
+      "category": "Интернет магазин Mangchi помогает людям благоустроить жилье и улучшить качество жизни, поэтому лучшая реклама для нас — это довольный покупатель, который смог реализовать свои проекты в рамках намеченного бюджета.c",
+      "price": 59000,
+      "discount": 1000,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 57,
+      "brand": "EPA трубные клещи (EKK-10-1 250mm)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/96b041e2-06fd-4dee-ace7-68833c3a5176.webp",
+      "category": "Ключ крокодил EPA(EKK-10-1) Ключи трубные переставные изготовлены из прочной углеродистой стали. Твердость Насечки на губках обеспечивают надежный захват. Применяется для работ с газовыми и водопроводными трубами Бренд – EPA Родина бренда – Китай Страна производитель – Китай Тип – Ключ",
+      "price": 45000,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 58,
+      "brand": "Лестницы",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/0009.png",
+      "category": "Лестницы индустриального типа односекционные алюминиевые 1*7",
+      "price": 742000,
+      "discount": 1200,
+      "categoryId": 200,
+      "count": 0
+    },
+    {
+      "id": 59,
+      "brand": "EPA топор (ET-800 -800mm)",
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/з9.png",
+      "category": "Произведенный EPA с 12-летним опытом работы в сфере строительной техники, топор EPA ET-800 пользуется популярностью у многих покупателей благодаря красивому дизайну и прочным материалам. Этот продукт легкий и простой в использовании. Вероятность того, что он выпадет из рук во время использования, практически исключена. Строительная техника производства EPA сделает вашу жизнь проще",
+      "price": 62000,
+      "categoryId": 200,
+      "count": 0
+    }
+  ],
+  "list": [
+    {
+      "id": 1,
+      "title": "Сухие строительные смеси",
+      "categoryId": 1,
+      "count": 0,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/1mixes1.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Товары для сауны",
+      "categoryId": 2,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/2f6a2e81b6b0.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Листовые материалы",
+      "categoryId": 3,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/aluk.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Блоки строительные",
+      "categoryId": 4,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/Bloki_dlya_stroitelstva_doma_kakie_luchshe_1.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Химическая продукция",
+      "categoryId": 5,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/him-product.jpeg"
+    },
+    {
+      "id": 6,
+      "title": "Каркас для ГКЛ",
+      "categoryId": 1,
+      "count": 0,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/glk.png"
+    },
+    {
+      "id": 7,
+      "title": "Хозтовары",
+      "categoryId": 2,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/1592504.jpeg"
+    },
+    {
+      "id": 8,
+      "title": "Лакокрасочные материалы",
+      "categoryId": 3,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/istock_000013829858medium1paint.jpg"
+    },
+
+    {
+      "id": 9,
+      "title": "Крепежи",
+      "categoryId": 4,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/krepezh3.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Металлопрокат",
+      "categoryId": 5,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/metalloprokat.png"
+    },
+    {
+      "id": 11,
+      "title": "Гидроизоляция",
+      "categoryId": 1,
+      "count": 0,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/gidroizolyazia.png"
+    },
+    {
+      "id": 12,
+      "title": "Изоляционные материалы",
+      "categoryId": 2,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/upetlitely.png"
+    },
+    {
+      "id": 13,
+      "title": "Пиломатериалы",
+      "categoryId": 3,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/pilomaterialy.png"
+    },
+    {
+      "id": 14,
+      "title": "ЖБИ изделия",
+      "categoryId": 4,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/zhbi.png"
+    },
+    {
+      "id": 15,
+      "title": "Ручные инструменты",
+      "categoryId": 5,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/instrumenty.png"
+    },
+    {
+      "id": 16,
+      "title": "ЭлектроИнструменты",
+      "categoryId": 1,
+      "count": 0,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/electroinstrument.png"
+    },
+    {
+      "id": 17,
+      "title": "Сантехника",
+      "categoryId": 2,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/santekhnika.png"
+    },
+    {
+      "id": 18,
+      "title": "Дренажные системы",
+      "categoryId": 3,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/drenazh.png"
+    },
+    {
+      "id": 19,
+      "title": "Вентиляция",
+      "categoryId": 4,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/ventilyazia.png"
+    },
+    {
+      "id": 20,
+      "title": "Двери и Окна",
+      "categoryId": 5,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/dveri_okna.png"
+    },
+    {
+      "id": 21,
+      "title": "Лепной Декор",
+      "categoryId": 1,
+      "count": 0,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/lepnoy_dekor.jpg"
+    },
+    {
+      "id": 22,
+      "title": "Кровля. Водосточные системы",
+      "categoryId": 2,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/krovlya.png"
+    },
+    {
+      "id": 23,
+      "title": "Сайдинг.Пластиковые панели.",
+      "categoryId": 3,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/saydi 2.jpg"
+    },
+    {
+      "id": 24,
+      "title": "Напольные покрытия",
+      "categoryId": 4,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/napolniye_pokritiya.png"
+    },
+    {
+      "id": 25,
+      "title": "Mебель",
+      "categoryId": 5,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/8e6a20f97ad50ae93ea64d50308924a8.jpg"
+    },
+    {
+      "id": 26,
+      "title": "Мастера",
+      "categoryId": 1,
+      "count": 0,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/icon.jpg"
+    },
+    {
+      "id": 27,
+      "title": " Инструменты штукатурные",
+      "categoryId": 2,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/1002a-51.jpg"
+    },
+    {
+      "id": 28,
+      "title": "Плинтус",
+      "categoryId": 3,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/123456nertgh.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Агрохимия",
+      "categoryId": 4,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/126273-2.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Сыпучие строительные",
+      "categoryId": 5,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/9xdhsvq2iw0kc8s8gwwokc88cgckk8.jfif"
+    },
+    {
+      "id": 31,
+      "title": "электро техника",
+      "categoryId": 1,
+      "count": 0,
+      "thumbnail": "https://api.teplodomshop.com/api/v1/image/get-by-name/?image_name=@web/img/hello_html_m43041ce9.jpg"
+    }
+  ]
+}

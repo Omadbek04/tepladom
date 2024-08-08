@@ -1,0 +1,17 @@
+<svg width="23.000000" height="21.000000" viewBox="0 0 23 21" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<linearGradient id="paint_linear_1_7453_0" x1="10.884707" y1="0.841309" x2="10.884707" y2="13.023392" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFA509"/>
+			<stop offset="1.000000" stop-color="#F66C4F"/>
+		</linearGradient>
+		<linearGradient id="paint_linear_1_7453_1" x1="10.884707" y1="0.841309" x2="10.884707" y2="13.023392" gradientUnits="userSpaceOnUse">
+			<stop stop-color="#FFA509"/>
+			<stop offset="1.000000" stop-color="#F66C4F"/>
+		</linearGradient>
+	</defs>
+	<path id="Vector" d="M1.74 10.25C-0.51 7.25 0.24 2.75 3.99 1.25C7.74 -0.25 9.99 2.75 10.74 4.25C11.49 2.75 14.49 -0.25 18.24 1.25C21.99 2.75 21.99 7.25 19.74 10.25C17.49 13.25 10.74 19.25 10.74 19.25C10.74 19.25 3.99 13.25 1.74 10.25Z" fill="url(#paint_linear_1_7453_0)" fill-opacity="1.000000" fill-rule="nonzero"/>
+	<path id="Vector" d="M3.99 1.25C7.74 -0.25 9.99 2.75 10.74 4.25C11.49 2.75 14.49 -0.25 18.24 1.25C21.99 2.75 21.99 7.25 19.74 10.25C17.49 13.25 10.74 19.25 10.74 19.25C10.74 19.25 3.99 13.25 1.74 10.25C-0.51 7.25 0.24 2.75 3.99 1.25Z" stroke="url(#paint_linear_1_7453_1)" stroke-opacity="1.000000" stroke-width="2.000000" stroke-linejoin="round"/>
+</svg>
