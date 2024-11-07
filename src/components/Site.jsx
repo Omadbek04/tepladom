@@ -5,6 +5,7 @@ import { getProduct } from "../reducers/siteSlice";
 
 function Site() {
   const { product } = useSelector((state) => state.site);
+  
   const dispatch = useDispatch();
 
   useEffect(() => {

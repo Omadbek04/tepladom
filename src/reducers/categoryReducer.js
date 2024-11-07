@@ -8,7 +8,7 @@ const categoriesReducer = createSlice({
   },
   reducers: {
     getUser: (state, action) => {
-      state.list = action.payload.data;
+      state.list = action.payload;
     },
     getCategories: (state, action) => {
       state.ctList = state.list.filter((c) => c.categoryId === action.payload);
@@ -22,7 +22,7 @@ export default categoriesReducer.reducer;
 
 export function getUser() {
   return async function (dispatch) {
-    const response = await fetch(`https://online-json-server-api.up.railway.app/project/66b4aedd340dd55056fb5a7c/list`);
+    const response = await fetch(`https://4d78fe3c0a149260.mokky.dev/category`);
     try {
       if (!response.ok) {
         throw new Error(response.statusText);

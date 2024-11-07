@@ -26,13 +26,13 @@ export default siteSlice.reducer;
 
 export function getProduct() {
   return async function (dispatch) {
-    const response = await fetch(`https://online-json-server-api.up.railway.app/project/66b4aedd340dd55056fb5a7c/products`);
+    const response = await fetch(`https://4d78fe3c0a149260.mokky.dev/product`);  
     try {
       if (!response.ok) {
         throw new Error(response.statusText);
       }
       const data = await response.json();
-      dispatch({ type: "site/getProduct", payload: data.data });
+      dispatch({ type: "site/getProduct", payload: data });
     } catch (error) {
       console.log(error);
     }
